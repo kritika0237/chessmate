@@ -47,7 +47,7 @@ To set up in your local machine, follow these steps:
 
 1. Clone the repository:
    ```sh
-   git clone https://github.com/kritika0237/Chess--Mate.git
+   git clone https://github.com/kritika0237/chessmate.git
    ```
 
 2. Navigate to the project directory:
