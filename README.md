@@ -33,12 +33,7 @@ Chessmate is an innovative online multiplayer chess game that not only lets you 
 
 Check out the live demo: [Chessmate.me](https://chess-mate.me/)
 
-## Screenshots
 
-<div style="display: flex; align-items: center;">
-    <img src="https://github.com/satyamgupta1495/chess-mate/assets/51158766/2821dfdd-7d6c-4302-a9e4-e5f84926159e" alt="Chessmate Icon" style="width: 350px; height: 200px; ">
-    <img src="https://github.com/satyamgupta1495/chess-mate/assets/51158766/5adccec8-8945-4b65-9bfe-ffbbc2952406" alt="Chessmate Icon" style="width: 350px; height: 200px; ">
-</div>
 
 
 ## Installation
