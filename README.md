@@ -19,15 +19,14 @@ An online multiplayer chess game where you can play, chat, checkmate ♟️
 
 ## Introduction
 
-Chessmate is an innovative online multiplayer chess game that not only lets you play chess but also engage with your opponents through integrated chat and video call features. Whether you want to set up private games with friends or join public rooms to challenge new opponents, Chessmate provides a seamless and engaging user experience.
+Chessmate is an innovative online multiplayer chess game that not only lets you play chess but also engage with your opponents through integrated chat and video call features. 
 
 ## Features
 
 - **Create rooms and play**: Set up private games with friends or join public rooms to challenge new opponents.
 - **Real-time Chat**: Engage with your opponents through our integrated chat feature.
 - **Video Call**: Make your games more interactive with face-to-face video calls.
-- **Interactive UI**: Enjoy a seamless and engaging user experience.
-- **Cross platform**: Play on any device with a consistent experience.
+- **Interactive UI**: Enjoy a seamless and engaging user experience.npmnpm run dev
 - **Full-stack application**: Secure authentication and user-friendly interfaces ensure a smooth experience for all users.
 
 ## Demo
@@ -48,7 +47,7 @@ To set up in your local machine, follow these steps:
 
 1. Clone the repository:
    ```sh
-   git clone https://github.com/satyamgupta1495/chess-mate.git
+   git clone https://github.com/kritika0237/Chess--Mate.git
    ```
 
 2. Navigate to the project directory:
@@ -108,9 +107,8 @@ Please adhere to this project's `code of conduct`.
 
 Feel free to reach out for any questions or feedback:
 
-- **Email:** [satyamgupta1495@gmail.com](mailto:satyamgupta1495@gmail.com)
-- **Twitter:** [https://twitter.com/_Satyam_gupta_](https://twitter.com/_Satyam_gupta_)
-- **LinkedIn:** [https://www.linkedin.com/in/satyamgupta1495/](https://www.linkedin.com/in/satyamgupta1495/)
+- **Email:** [kritikaraj.jmt@gmail.com](mailto:kritikaraj.jmt@gmail.com)
+- **LinkedIn:** [https://www.linkedin.com/in/kritika-raj-ba0b26232/](https://www.linkedin.com/in/kritika-raj-ba0b26232/)
 
 ## License
 
